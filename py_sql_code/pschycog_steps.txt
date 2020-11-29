@@ -1,0 +1,8 @@
+create python to connect to db - done
+accept inputs and save to variables in py
+ex(https://www.postgresqltutorial.com/postgresql-python/query/
+https://www.postgresqltutorial.com/postgresql-python/transaction/)
+
+%s is a variable in a query
+
+
